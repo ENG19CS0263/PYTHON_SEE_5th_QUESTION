@@ -14,7 +14,7 @@ An input for which the function does NOT produce the correct answer.
 3 3
 5 5
 
-5 b) The debugged code is attached in degub_prac.py
+5 b) The debugged code is attached in degub_exam.py
 
 5 c)
 Test Cases:
